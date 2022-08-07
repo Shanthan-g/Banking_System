@@ -1,7 +1,8 @@
 Functionalites:
 - You can either sign up as a joint account or single account. Duplicate usernames are not allowed. Initial balance is set to 0
 - You can sign in by username, password and specifying what kind of account
-- Deposit, Withdraw, checkBalance, Change Password, View Details.
+- User-> Deposit, Withdraw, checkBalance, Change Password, View Details.
+- Admin-> Add user, Delete user, Modify user, Get User Details.
 
 How to Run:
 First Run the account.c file. This will create a database.bin with 11 accounts in it. 5 of them are single accounts while other 5 are joint accounts.
